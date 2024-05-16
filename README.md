@@ -44,11 +44,6 @@ plt.show()
 
 
 
-
-
-
-
-
 ```
 ## Output
 
